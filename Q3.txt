@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch enables you to work on the contents of a repository in isolation from what others see as the current state of the repository. It allows new content to be added in a safe, vversion controlled way. In order for a branch to become part of the main, it would need to be merged back into the 'head' branch.
